@@ -28,7 +28,7 @@ Drag the Sphere to the plane and release the mouse
 
 ### Step5:
 Click Hierarchy -> DirectionalLight
-Inspector -> Change the color to white (255,255,255)
+Inspector -> Change the color to red for cylinder and blue for sphere.
 
 ### Step6:
 Create a folder name exp1 and create a C# file to add the coding in it.
