@@ -9,8 +9,11 @@ Start
 Click File -> Scene -> Select the scene -> Save as-> New folder(Scenes)-> File name (Exp1)
 ### Step3:
 1.Click Hierarchy -> 3DObject -> Cylinder
+
 2.Hierarchy -> 3DObject -> Sphere
+
 3.Hierarchy -> 3DObject -> Text
+
 4.Hierarchy -> Effects -> Particle system
 ### Step4:
 Create a folder in project and name as Materials
